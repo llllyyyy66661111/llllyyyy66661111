@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今天你摸鱼了吗？今天你学习了吗?今天你想我了吗？;今天你锻炼了吗？;今天你emo了吗？;&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今天你摸鱼了吗？;今天你学习了吗?;今天你想我了吗？;今天你锻炼了吗？;今天你emo了吗？;&center=true&size=27"> </a> </h1>
 
 - 👋 Hi, I’m @llllyyyy66661111
 - 👀 I’m interested in ...
